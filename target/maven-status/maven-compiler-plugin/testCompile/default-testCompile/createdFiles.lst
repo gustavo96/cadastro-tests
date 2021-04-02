@@ -1,0 +1,5 @@
+br/com/webmotors/pages/CadastroPage.class
+br/com/webmotors/step_definitions/DriverFactory.class
+br/com/webmotors/step_definitions/SearchCarsSteps.class
+br/com/webmotors/runners/Runner.class
+br/com/webmotors/pages/SearchCarsPage.class
